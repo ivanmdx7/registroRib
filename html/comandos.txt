@@ -2,3 +2,7 @@
 para imagen de url
 <img src="">
 
+comandos para github
+git add .
+git commit -m ""
+git push
